@@ -1,0 +1,3 @@
+{"traceEvents":[{"name":"loop_cout","cat":"function","ph":"X","ts":45770540122,"dur":57635,"pid":0,"tid":0},
+{"name":"loop_printf","cat":"function","ph":"X","ts":45770597824,"dur":62097,"pid":0,"tid":0}
+]}
